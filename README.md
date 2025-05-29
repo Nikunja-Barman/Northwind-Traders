@@ -1,4 +1,4 @@
-# 🕵👨‍💻Northwind Traders Sales & Operational Performance Analysis
+# Northwind Traders Sales & Operational Performance Analysis 🕵👨‍💻
 
 # 📋 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄: 
 Northwind Traders, a global gourmet food distributor, sought to leverage data for improved sales, product management, and operational efficiency. As part of the Maven Analytics Power BI Challenge, I developed an interactive Power BI dashboard solution to provide actionable insights from their transactional data.
@@ -8,7 +8,7 @@ Northwind Traders, a global gourmet food distributor, sought to leverage data fo
 The primary objective was to transform Northwind Traders' raw transactional data which consists of multiple tables viz Category, Customer, Date, Employees, Managers, Order_details, Orders, Products, Shippers into a comprehensive business intelligence tool. This involved analyzing sales performance, identifying key product and customer trends, and assessing operational metrics (e.g., order fulfillment, shipping costs) to enable data-driven strategic planning and decision-making for sustainable growth.
 
 
-## 🔑What I did:
+## 🔑 What I did:
 
 ● Data Acquisition & Transformation: Loaded and transformed raw data using Power Query, ensuring data quality and readiness for analysis.
 
@@ -20,7 +20,7 @@ The primary objective was to transform Northwind Traders' raw transactional data
 
 ● Insights Generation: Analyzed sales trends, product and customer performance, and operational metrics to derive actionable business insights and recommendations.
 
-## 🔎Key Visualizations & Insights:
+## 🔎 Key Visualizations & Insights:
 
 ## Dashboard 1: Sales Performance Overview
 
