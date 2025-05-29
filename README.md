@@ -20,17 +20,17 @@ The primary objective was to transform Northwind Traders' raw transactional data
 
 ● Insights Generation: Analyzed sales trends, product and customer performance, and operational metrics to derive actionable business insights and recommendations.
 
-# Key Visualizations & Insights:
+## Key Visualizations & Insights:
 
 Dashboard 1:Sales Performance Overview
 
-1. Year Slicers (2013, 2014, 2015):
+### 1. Year Slicers (2013, 2014, 2015):
 
 Purpose: To enable quick year-over-year comparison and focus on specific periods.
 
 Key Insight(s): These slicers provide immediate control over the data's timeframe, essential for historical analysis and tracking annual performance metrics. Beneficial for interactivity and flexible data exploration.
 
-2.Key Performance Indicators (KPIs) :
+### 2.Key Performance Indicators (KPIs) :
 
 ![image](https://github.com/user-attachments/assets/f92c34a8-18ca-4637-88a4-1beda4f6fb90)
 
@@ -60,7 +60,7 @@ Insight: While sales revenue shows strong growth, the relatively lower 2% YoY gr
 
 Technical Details for all KPIs:  DAX measures were created for current year values, PYTD and YoY %.
 
-3.Column Charts: MOM Sales across Year, MOM Freight Cost across Year & MOM Orders count across Year:
+### 3.Column Charts: MOM Sales across Year, MOM Freight Cost across Year & MOM Orders count across Year:
 
 ![image](https://github.com/user-attachments/assets/e722af54-f784-4197-aacd-710f287674d4)
 
@@ -72,7 +72,7 @@ Insight: These charts allow for detailed monthly trend analysis. For instance, p
 
 Technical Details: These charts utilize Sales, Freight Cost , and Orders measures against a month-year hierarchy in axis and in legend.
 
-4.Bar Charts: Top Product by Sales, Most Costly Products, Most Ordered Products:
+### 4.Bar Charts: Top Product by Sales, Most Costly Products, Most Ordered Products:
 
 ![image](https://github.com/user-attachments/assets/e6a6b10c-0a08-490d-b897-9ddc169aeda9)
 
@@ -89,7 +89,7 @@ Most Ordered Products: 'Camembert Pierrot' (1577 orders) is also the most ordere
 
 Technical Details: These charts use appropriate measures (Sales, Freight, Orders) with Top 10 filters applied to product names.
 
-5.Bar Charts: Top Customers by Sales value, Highest Cost Customers, Top Customers by Sales quantity:
+### 5.Bar Charts: Top Customers by Sales value, Highest Cost Customers, Top Customers by Sales quantity:
 
 ![image](https://github.com/user-attachments/assets/07d3716f-a23e-42a0-be82-a473bb531aae)
 
