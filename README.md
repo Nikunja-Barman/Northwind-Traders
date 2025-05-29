@@ -1,6 +1,6 @@
 # Northwind Traders Sales & Operational Performance Analysis
 
-# 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
+#𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
 Northwind Traders, a global gourmet food distributor, sought to leverage data for improved sales, product management, and operational efficiency. As part of the Maven Analytics Power BI Challenge, I developed an interactive Power BI dashboard solution to provide actionable insights from their transactional data.
 
 
