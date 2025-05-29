@@ -177,7 +177,7 @@ Technical Details:  Power BI map visual is used, using Sales measure against Cou
 
 ### 6. Line Chart: Shipping Cost Trend:
 
-![image](https://github.com/user-attachments/assets/7915c538-7fb9-4ad2-afae-bd0a335fe799)
+![image](https://github.com/user-attachments/assets/a5b1dd22-f2df-4906-8af3-0cb2fd20f0cd)
 
 Description: A line chart showing the trend of shipping costs over time.
 
@@ -189,8 +189,8 @@ Technical Details: Plots Freight Cost measure against ShippedDate.
 
 ### 7. Gauge: Repeat Purchase Rate (98.88%)
 
-![image](https://github.com/user-attachments/assets/5d60b71f-0439-455c-a814-d08cb19e2d81)
-   
+![image](https://github.com/user-attachments/assets/c197d95d-41f8-48a4-b618-74cf9fb3885e)
+
 Description: A visual showing the percentage of customers who made repeat purchases.
 
 Purpose: A crucial customer loyalty metric.
