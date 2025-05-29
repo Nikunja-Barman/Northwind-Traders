@@ -22,7 +22,7 @@ The primary objective was to transform Northwind Traders' raw transactional data
 
 ## Key Visualizations & Insights:
 
-## Dashboard 1:Sales Performance Overview
+## Dashboard 1: Sales Performance Overview
 
 ![Northwind traders - sheet1 ](https://github.com/user-attachments/assets/e790c470-453d-4a25-8cd5-32aa477d42fc)
 
