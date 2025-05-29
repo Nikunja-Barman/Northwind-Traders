@@ -10,15 +10,15 @@ The primary objective was to transform Northwind Traders' raw transactional data
 
 # What I did:
 
-●Data Acquisition & Transformation: Loaded and transformed raw data using Power Query, ensuring data quality and readiness for analysis.
+● Data Acquisition & Transformation: Loaded and transformed raw data using Power Query, ensuring data quality and readiness for analysis.
 
-●Data Modeling: Established relationships between various tables (e.g., Orders to Order Details, Products to Categories) to create a robust analytical model. Image of the Data modelling is attached.
+● Data Modeling: Established relationships between various tables (e.g., Orders to Order Details, Products to Categories) to create a robust analytical model. Image of the Data modelling is attached.
 
-●DAX Measures Development: Created multiple DAX measures for key performance indicators (KPIs) such as Sales in CY, YoY Sales Growth, Freight Cost, Avg Order Value, CPO (Cost Per Order), On-Time Delivery Rate, Repeat Purchase Rate, and Product Profitability.
+● DAX Measures Development: Created multiple DAX measures for key performance indicators (KPIs) such as Sales in CY, YoY Sales Growth, Freight Cost, Avg Order Value, CPO (Cost Per Order), On-Time Delivery Rate, Repeat Purchase Rate, and Product Profitability.
 
-●Dashboard Design & Visualization: Designed two interconnected, user-friendly, and visually appealing dashboards (Sales Performance Dashboard & Operational Performance Dashboard), incorporating various Power BI visuals to convey insights effectively.
+● Dashboard Design & Visualization: Designed two interconnected, user-friendly, and visually appealing dashboards (Sales Performance Dashboard & Operational Performance Dashboard), incorporating various Power BI visuals to convey insights effectively.
 
-●Insights Generation: Analyzed sales trends, product and customer performance, and operational metrics to derive actionable business insights and recommendations.
+● Insights Generation: Analyzed sales trends, product and customer performance, and operational metrics to derive actionable business insights and recommendations.
 
 # Key Visualizations & Insights:
 
@@ -33,6 +33,8 @@ Key Insight(s): These slicers provide immediate control over the data's timefram
 2.Key Performance Indicators (KPIs) :
 
 Sales in CY ($440,624), Sales PYTD ($453,187) & YoY% (53%):
+
+![image](https://github.com/user-attachments/assets/d2a604c4-a786-45e8-b85a-8248ccc802c1)
 
 Description: Card visuals showing current year's sales, Previous year to date Sales and its year-over-year growth.
 
