@@ -4,11 +4,11 @@
 Northwind Traders, a global gourmet food distributor, sought to leverage data for improved sales, product management, and operational efficiency. As part of the Maven Analytics Power BI Challenge, I developed an interactive Power BI dashboard solution to provide actionable insights from their transactional data.
 
 
-# Problem Statement/Objective:
+## Problem Statement/Objective:
 The primary objective was to transform Northwind Traders' raw transactional data which consists of multiple tables viz Category, Customer, Date, Employees, Managers, Order_details, Orders, Products, Shippers into a comprehensive business intelligence tool. This involved analyzing sales performance, identifying key product and customer trends, and assessing operational metrics (e.g., order fulfillment, shipping costs) to enable data-driven strategic planning and decision-making for sustainable growth.
 
 
-# What I did:
+## What I did:
 
 ● Data Acquisition & Transformation: Loaded and transformed raw data using Power Query, ensuring data quality and readiness for analysis.
 
