@@ -222,3 +222,8 @@ Purpose: To understand the distribution of sales across product categories.
 Insight:  Beverages and Dairy Products dominate sales (27.79% and 24.33% respectively), while other categories like Confections (17.36% ) also contribute significantly. This informs inventory management and marketing focus for different categories.
 
 Technical Details: Utilizes a Sales measure sliced by Category Name.
+
+## 🛠 𝗧ools & Techniques used:
+Power BI Desktop: For data import (Power Query), data modeling (relationships, DAX measures), visualization and dashboard design.
+Power BI Service: For publishing and sharing the interactive report.
+Excel: For initial data understanding.
