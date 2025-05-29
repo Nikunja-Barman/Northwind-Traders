@@ -22,7 +22,9 @@ The primary objective was to transform Northwind Traders' raw transactional data
 
 ## Key Visualizations & Insights:
 
-Dashboard 1:Sales Performance Overview
+## Dashboard 1:Sales Performance Overview
+
+![Northwind traders - sheet1 ](https://github.com/user-attachments/assets/e790c470-453d-4a25-8cd5-32aa477d42fc)
 
 ### 1. Year Slicers (2013, 2014, 2015):
 
@@ -107,9 +109,13 @@ Top Customers by Sales Quantity:  'Save-a-lot' Markets (4958) leads significantl
 Technical Details: Bar charts with 'Top 10' filters, utilizing measures for sales, order cost, and sales quantity, sliced by customer name.
 
 
-Dashboard 2: Product & Operational Performance
+## Dashboard 2: Product & Operational Performance
 
-1. Key Performance Indicators (KPIs) :
+![Northwind Traders-Sheet 2](https://github.com/user-attachments/assets/20e1946e-7d6e-4cb0-a1d0-781757883d50)
+
+### 1. Key Performance Indicators (KPIs) :
+
+![image](https://github.com/user-attachments/assets/f642ebbd-b014-4acd-90d7-b59cf8a40528)
 
 CPO (Cost Per Order): The average cost per order is $78, a key operational metric to monitor for efficiency.
 
@@ -121,7 +127,9 @@ Total Product Count (77): Northwind Traders manages a total of 77 products, prov
 
 Technical Details: DAX measures calculated for CPO & Average order value.
 
-2. Matrix Visual: Product Profitability:
+### 2. Matrix Visual: Product Profitability:
+
+![image](https://github.com/user-attachments/assets/9c315947-eef6-43f6-a363-0ba4bc0ddb0c)
 
 Description: A matrix showing the profitability (or unprofitability) of specific products.
 
@@ -131,7 +139,9 @@ Insight: This matrix is crucial for product portfolio management. Products like 
 
 Technical Details: This involves a calculated measure for Product Profitability  and breaking it down by Product Name.
 
-3. Line Chart: Average Order Fulfillment Time across Year:
+### 3. Line Chart: Average Order Fulfillment Time across Year:
+
+![image](https://github.com/user-attachments/assets/648f86a5-a1b3-4e10-8d34-411b38162ebc)
 
 Description: Line chart showing the average time taken to fulfill orders over time.
 
@@ -141,7 +151,9 @@ Insight: The fulfillment time appears to fluctuate, with some spikes (e.g., Mar 
 
 Technical Details: DAX measure calculating the order fulfillment time using difference between OrderDate and ShippedDate.
 
-4. Gauge Chart: On-Time Delivery Rate (95.54%)
+### 4. Gauge Chart: On-Time Delivery Rate (95.54%)
+
+![image](https://github.com/user-attachments/assets/79ee96c7-d132-4f25-a4e6-bc9d704d8964)
 
 Description: A visual indicating the percentage of orders delivered on time.
 
@@ -151,7 +163,9 @@ Insight: A high on-time delivery rate of 95.54% is excellent, indicating strong 
 
 Technical Details:  DAX measure calculating the percentage of orders delivered where ShippedDate is before or on RequiredDate and Gauge chart is used to visualize the same.
 
-5. Map Visual: Sales by Country (Global Distribution)
+### 5. Map Visual: Sales by Country (Global Distribution)
+
+![Northwind traders- Map](https://github.com/user-attachments/assets/d0ff297f-780d-4797-ab45-a206665a22a8)
 
 Description: A world map displaying sales volume by country.
 
@@ -161,7 +175,9 @@ Insight: The map clearly shows a strong presence in North America and Europe, wi
 
 Technical Details:  Power BI map visual is used, using Sales measure against Country geographical data.
 
-6. Line Chart: Shipping Cost Trend:
+### 6. Line Chart: Shipping Cost Trend:
+
+![image](https://github.com/user-attachments/assets/7915c538-7fb9-4ad2-afae-bd0a335fe799)
 
 Description: A line chart showing the trend of shipping costs over time.
 
@@ -171,8 +187,10 @@ Insight: The shipping cost trend generally aligns with sales trends, showing pea
 
 Technical Details: Plots Freight Cost measure against ShippedDate.
 
-7. Gauge: Repeat Purchase Rate (98.88%)
+### 7. Gauge: Repeat Purchase Rate (98.88%)
 
+![image](https://github.com/user-attachments/assets/5d60b71f-0439-455c-a814-d08cb19e2d81)
+   
 Description: A visual showing the percentage of customers who made repeat purchases.
 
 Purpose: A crucial customer loyalty metric.
@@ -181,7 +199,9 @@ Insight:  An exceptionally high repeat purchase rate of 98.88% indicates outstan
 
 Technical Details: DAX measure is calculated to analyse the percentage of unique customers who have placed more than one order.
 
-8. Stacked Bar Chart: Employee Performance:
+### 8. Stacked Bar Chart: Employee Performance:
+
+![image](https://github.com/user-attachments/assets/363557e6-4acd-4573-a011-2d1375b6852f)
 
 Description: A stacked bar chart showing sales, no. of successful orders completed, no. of products sold as %Gt(Percent of Grand Total) attributed to each employee as their performance .
 
@@ -191,7 +211,9 @@ Insight:  This visual allows for evaluating individual employee contributions. F
 
 Technical Details:  %GT of OrderID, Sales, ProductID as measures is put in axis and broken down by Employee name. DAX used to calculate these measures.
 
-9. Donut Chart: Sales by product category:
+### 9. Donut Chart: Sales by product category:
+
+![image](https://github.com/user-attachments/assets/8bb9085d-83a3-4107-978e-216f9523c1bc)
 
 Description: A donut chart showing the percentage contribution of different product categories to total sales.
 
