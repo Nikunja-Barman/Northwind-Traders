@@ -74,6 +74,8 @@ Technical Details: These charts utilize Sales, Freight Cost , and Orders measure
 
 4.Bar Charts: Top Product by Sales, Most Costly Products, Most Ordered Products:
 
+![image](https://github.com/user-attachments/assets/e6a6b10c-0a08-490d-b897-9ddc169aeda9)
+
 Description: Horizontal bar charts identifying top performers based on different metrics.
 
 Purpose: To pinpoint high-value products from sales, cost, and popularity perspectives.
@@ -87,8 +89,9 @@ Most Ordered Products: 'Camembert Pierrot' (1577 orders) is also the most ordere
 
 Technical Details: These charts use appropriate measures (Sales, Freight, Orders) with Top 10 filters applied to product names.
 
-
 5.Bar Charts: Top Customers by Sales value, Highest Cost Customers, Top Customers by Sales quantity:
+
+![image](https://github.com/user-attachments/assets/07d3716f-a23e-42a0-be82-a473bb531aae)
 
 Description: Horizontal bar charts for customer analysis.
 
