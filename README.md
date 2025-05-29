@@ -32,9 +32,9 @@ Key Insight(s): These slicers provide immediate control over the data's timefram
 
 2.Key Performance Indicators (KPIs) :
 
-Sales in CY ($440,624), Sales PYTD ($453,187) & YoY% (53%):
+![image](https://github.com/user-attachments/assets/f92c34a8-18ca-4637-88a4-1beda4f6fb90)
 
-![image](https://github.com/user-attachments/assets/d2a604c4-a786-45e8-b85a-8248ccc802c1)
+Sales in CY ($440,624), Sales PYTD ($453,187) & YoY% (53%):
 
 Description: Card visuals showing current year's sales, Previous year to date Sales and its year-over-year growth.
 
@@ -61,6 +61,8 @@ Insight: While sales revenue shows strong growth, the relatively lower 2% YoY gr
 Technical Details for all KPIs:  DAX measures were created for current year values, PYTD and YoY %.
 
 3.Column Charts: MOM Sales across Year, MOM Freight Cost across Year & MOM Orders count across Year:
+
+![image](https://github.com/user-attachments/assets/e722af54-f784-4197-aacd-710f287674d4)
 
 Description: Column charts showing month-over-month trends for sales, freight cost, and order count.
 
