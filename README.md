@@ -129,7 +129,7 @@ Technical Details: DAX measures calculated for CPO & Average order value.
 
 ### 2. Matrix Visual: Product Profitability:
 
-![image](https://github.com/user-attachments/assets/9c315947-eef6-43f6-a363-0ba4bc0ddb0c)
+![image](https://github.com/user-attachments/assets/58137553-422b-4df1-ba43-f5ffc004db15)
 
 Description: A matrix showing the profitability (or unprofitability) of specific products.
 
@@ -141,7 +141,7 @@ Technical Details: This involves a calculated measure for Product Profitability 
 
 ### 3. Line Chart: Average Order Fulfillment Time across Year:
 
-![image](https://github.com/user-attachments/assets/648f86a5-a1b3-4e10-8d34-411b38162ebc)
+![image](https://github.com/user-attachments/assets/cd22ef66-b9d3-406d-90d0-aa56d716bbea)
 
 Description: Line chart showing the average time taken to fulfill orders over time.
 
@@ -153,7 +153,7 @@ Technical Details: DAX measure calculating the order fulfillment time using diff
 
 ### 4. Gauge Chart: On-Time Delivery Rate (95.54%)
 
-![image](https://github.com/user-attachments/assets/79ee96c7-d132-4f25-a4e6-bc9d704d8964)
+![image](https://github.com/user-attachments/assets/6f7940d2-a5e4-431e-8fb3-e26c53f85574)
 
 Description: A visual indicating the percentage of orders delivered on time.
 
