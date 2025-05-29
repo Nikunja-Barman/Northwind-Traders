@@ -224,6 +224,12 @@ Insight:  Beverages and Dairy Products dominate sales (27.79% and 24.33% respect
 Technical Details: Utilizes a Sales measure sliced by Category Name.
 
 ## 🛠 𝗧ools & Techniques used:
-Power BI Desktop: For data import (Power Query), data modeling (relationships, DAX measures), visualization and dashboard design.
-Power BI Service: For publishing and sharing the interactive report.
-Excel: For initial data understanding.
+● Power BI Desktop: For data import (Power Query), data modeling (relationships, DAX measures), visualization and dashboard design.
+● Power BI Service: For publishing and sharing the interactive report.
+● Excel: For initial data understanding.
+
+## 💡𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀:
+📍Developed end-to-end Power BI dashboards for actionable insights.
+📍Proficiently applied Power Query, Star Schema design, and complex DAX.
+📍Translated raw data into clear business implications and recommendations.
+📍Analyzed diverse metrics, from sales trends to operational efficiency.
