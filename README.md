@@ -36,7 +36,7 @@ Key Insight(s): These slicers provide immediate control over the data's timefram
 
 ![image](https://github.com/user-attachments/assets/f92c34a8-18ca-4637-88a4-1beda4f6fb90)
 
-Sales in CY ($440,624), Sales PYTD ($453,187) & YoY% (53%):
+➤Sales in CY ($440,624), Sales PYTD ($453,187) & YoY% (53%):
 
 Description: Card visuals showing current year's sales, Previous year to date Sales and its year-over-year growth.
 
@@ -44,7 +44,7 @@ Purpose: To provide a quick pulse check on overall revenue performance and growt
 
 Insight: Current sales figures are robust, with a significant 53% YoY growth, indicating strong business expansion.
 
-Freight Cost in CY ($64,943), Freight PYTD ($22,410) & YoY% (52%):
+➤Freight Cost in CY ($64,943), Freight PYTD ($22,410) & YoY% (52%):
 
 Description: Card visuals for current and previous year's freight costs and its year-over-year change.
 
@@ -52,7 +52,7 @@ Purpose: To track logistical expenses.
 
 Insight: Freight costs are tracking closely with sales growth (52% YoY), suggesting efficient scaling of logistics with sales volume. It's important to monitor this to ensure it doesn't outpace revenue growth.
 
-Orders in CY (830), YOY Revenue($453,187) & YoY% (2%):
+➤Orders in CY (830), YOY Revenue($453,187) & YoY% (2%):
 
 Description: Card visuals for current year's total orders, its year-over-year revenue and  growth.
 
@@ -117,13 +117,13 @@ Technical Details: Bar charts with 'Top 10' filters, utilizing measures for sale
 
 ![image](https://github.com/user-attachments/assets/f642ebbd-b014-4acd-90d7-b59cf8a40528)
 
-CPO (Cost Per Order): The average cost per order is $78, a key operational metric to monitor for efficiency.
+➤CPO (Cost Per Order): The average cost per order is $78, a key operational metric to monitor for efficiency.
 
-Avg Order Value: The average order value is $587, reinforcing the idea that higher average transaction sizes contribute to revenue growth even with fewer orders.
+➤Avg Order Value: The average order value is $587, reinforcing the idea that higher average transaction sizes contribute to revenue growth even with fewer orders.
 
-Discontinued Products (8): Currently, 8 products are discontinued. This number is critical for inventory management and product lifecycle planning.
+➤Discontinued Products (8): Currently, 8 products are discontinued. This number is critical for inventory management and product lifecycle planning.
 
-Total Product Count (77): Northwind Traders manages a total of 77 products, providing context for the product profitability analysis.
+➤Total Product Count (77): Northwind Traders manages a total of 77 products, providing context for the product profitability analysis.
 
 Technical Details: DAX measures calculated for CPO & Average order value.
 
@@ -201,7 +201,7 @@ Technical Details: DAX measure is calculated to analyse the percentage of unique
 
 ### 8. Stacked Bar Chart: Employee Performance:
 
-![image](https://github.com/user-attachments/assets/363557e6-4acd-4573-a011-2d1375b6852f)
+![image](https://github.com/user-attachments/assets/e6c37cab-f5dd-4da9-89c4-d91a37d45d6f)
 
 Description: A stacked bar chart showing sales, no. of successful orders completed, no. of products sold as %Gt(Percent of Grand Total) attributed to each employee as their performance .
 
